@@ -1,6 +1,6 @@
 # Traffic_Reg
 
-### [View Notebook](https://github.com/Praiseogooluwa/My_Projects/blob/main/Web_Scraping_project.ipynb)
+### [View Notebook](https://github.com/Praiseogooluwa/Traffic_Reg/blob/main/traffic%20_reg_1122.ipynb)
 
 ## SUMMARY
 

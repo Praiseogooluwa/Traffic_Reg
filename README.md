@@ -1,5 +1,7 @@
 # Traffic_Reg
 
+### [View Notebook](https://github.com/Praiseogooluwa/My_Projects/blob/main/Web_Scraping_project.ipynb)
+
 ## SUMMARY
 
 ### **Project**
